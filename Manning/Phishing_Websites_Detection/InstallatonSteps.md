@@ -1,20 +1,34 @@
 # Installation Instructions for Windows 10
 
-1. Create a folder 'project_name' and cd to the path.
-2. Copy get-pip.py from <https://bootstrap.pypa.io/get-pip.py>
-3. sudo python get-pip.py pip==19.3.1
+Create a directory for the project and cd to the directory path.
+```
+mkidr Phishing_Websites_Detections
+cd Phishing_Websites_Detections
+```
+Copy get-pip.py from <https://bootstrap.pypa.io/get-pip.py>
 
+Install pip
+```
+python get-pip.py pip==19.3.1
+```
+
+Install packages `virtualenv` and `virtualenvwrapper`
 ```
 pip install virtualenv virtualenvwrapper
 ```
-
+Create virtual environment 
 ```
 virtualenv venv
 ```
+Activate virtual environment
+```
+activate venv\Scripts
+```
+Install packages
+```
+pip install -r "requirements.txt"
+```
 
-```
-cd venv\Scripts
-```
 
 ## FAQ
 
