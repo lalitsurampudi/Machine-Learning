@@ -1,3 +1,36 @@
 {
-    "python.pythonPath": "C:\\Users\\lsurampudi\\Anaconda3\\envs\\devenv\\python.exe"
+    "python.pythonPath": "C:\\Users\\lsurampudi\\Anaconda3\\envs\\devenv\\python.exe",
+    "sqltools.connections": [
+        {
+            "name": "sqlserver",
+            "server": "localhost",
+            "port": 1433,
+            "database": "AdventureWorks2014",
+            "username": "LAPTOP-MH5J938Q\\lsurampudi",
+            "askForPassword": false,
+            "password": "password",
+            "connectionTimeout": 15,
+            "dialect": "MSSQL"
+        },
+        {
+            "database": "accidents",
+            "dialect": "MySQL",
+            "name": "mysql",
+            "password": "P@ssw0rd1!",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        },
+        {
+            "askForPassword": false,
+            "database": "AdventureWorks2017",
+            "dialect": "MSSQL",
+            "isActive": false,
+            "isConnected": false,
+            "name": "sqlserver17",
+            "port": 1433,
+            "server": "localhost",
+            "username": "LAPTOP-MH5J938Q\\MSSQLSERVER01\\lsurampudi"
+        }
+    ]
 }
