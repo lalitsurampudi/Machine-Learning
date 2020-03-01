@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\lsurampudi\\Anaconda3\\envs\\devenv\\python.exe",
+    "python.pythonPath": "C:\\Users\\lsurampudi\\Anaconda3\\envs\\phish_37\\python.exe",
     "sqltools.connections": [
         {
             "name": "sqlserver",
@@ -32,5 +32,11 @@
             "server": "localhost",
             "username": "LAPTOP-MH5J938Q\\MSSQLSERVER01\\lsurampudi"
         }
-    ]
+    ],
+    "python.testing.pytestArgs": [
+        "Udacity"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
 }

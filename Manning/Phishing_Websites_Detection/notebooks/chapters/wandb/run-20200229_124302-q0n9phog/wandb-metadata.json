@@ -1,0 +1,26 @@
+{
+    "root": "C:/Users/lsurampudi/Documents/DataScience/Github/Projects/Machine-Learning",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/lalitsurampudi/Machine-Learning.git",
+        "commit": "b2f37c190bde9b3990b98efeb4d508cfa2e4464e"
+    },
+    "email": "lsurampudi@gmail.com",
+    "startedAt": "2020-02-29T12:42:36.650442",
+    "host": "LAPTOP-MH5J938Q",
+    "username": "lsurampudi",
+    "executable": "C:\\Users\\lsurampudi\\Anaconda3\\envs\\udeng36\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.6.3",
+    "cpu_count": 12,
+    "args": [
+        "-f",
+        "C:\\Users\\lsurampudi\\AppData\\Roaming\\jupyter\\runtime\\kernel-c2c02822-e3d9-44da-a2b5-08a8e2a9405c.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "neural-network",
+    "project": "phishing-websites-detection",
+    "heartbeatAt": "2020-02-29T12:43:26.643616"
+}

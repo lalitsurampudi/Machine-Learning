@@ -1,0 +1,26 @@
+{
+    "root": "C:/Users/lsurampudi/Documents/DataScience/Github/Projects/Machine-Learning",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/lalitsurampudi/Machine-Learning.git",
+        "commit": "b2f37c190bde9b3990b98efeb4d508cfa2e4464e"
+    },
+    "email": "lsurampudi@gmail.com",
+    "startedAt": "2020-03-01T02:58:04.022453",
+    "host": "LAPTOP-MH5J938Q",
+    "username": "lsurampudi",
+    "executable": "C:\\Users\\lsurampudi\\Anaconda3\\envs\\udeng36\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.6.3",
+    "cpu_count": 12,
+    "args": [
+        "-f",
+        "C:\\Users\\lsurampudi\\AppData\\Roaming\\jupyter\\runtime\\kernel-6d925b16-d1a7-4f41-baae-bbd08849997e.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "logistic_regression",
+    "project": "phishing-websites-detection",
+    "heartbeatAt": "2020-03-01T02:58:05.212457"
+}
